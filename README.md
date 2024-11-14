@@ -1,2 +1,2 @@
 # Insurance-Business-Analysis
-Advance Excel , Powe bi , Tableau , SQL 
+Advance Excel , Powe bi , Tableau , SQL , PPT
